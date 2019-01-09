@@ -1,0 +1,2 @@
+2018-12-26 09:15:18.3319 Error NetworkTarget(Name=ownLog-tcp_wrapped): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2018-12-26 09:15:18.5461 Error NetworkTarget(Name=ownLog-tcp_wrapped): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused

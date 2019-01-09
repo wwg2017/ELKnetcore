@@ -1,0 +1,12 @@
+I:\Git仓储\ELKnetcore\ELK\bin\Release\netcoreapp2.0\NLog.config
+I:\Git仓储\ELKnetcore\ELK\bin\Release\netcoreapp2.0\ELK.deps.json
+I:\Git仓储\ELKnetcore\ELK\bin\Release\netcoreapp2.0\ELK.runtimeconfig.json
+I:\Git仓储\ELKnetcore\ELK\bin\Release\netcoreapp2.0\ELK.runtimeconfig.dev.json
+I:\Git仓储\ELKnetcore\ELK\bin\Release\netcoreapp2.0\ELK.dll
+I:\Git仓储\ELKnetcore\ELK\bin\Release\netcoreapp2.0\ELK.pdb
+I:\Git仓储\ELKnetcore\ELK\obj\Release\netcoreapp2.0\ELK.csprojAssemblyReference.cache
+I:\Git仓储\ELKnetcore\ELK\obj\Release\netcoreapp2.0\ELK.csproj.CoreCompileInputs.cache
+I:\Git仓储\ELKnetcore\ELK\obj\Release\netcoreapp2.0\ELK.AssemblyInfoInputs.cache
+I:\Git仓储\ELKnetcore\ELK\obj\Release\netcoreapp2.0\ELK.AssemblyInfo.cs
+I:\Git仓储\ELKnetcore\ELK\obj\Release\netcoreapp2.0\ELK.dll
+I:\Git仓储\ELKnetcore\ELK\obj\Release\netcoreapp2.0\ELK.pdb

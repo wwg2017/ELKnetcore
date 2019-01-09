@@ -1,0 +1,12 @@
+I:\Git仓储\ELKnetcore\ELK
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ELK
+--content-root=I:\Git仓储\ELKnetcore\ELK
+--file=I:\Git仓储\ELKnetcore\ELK\Views\Home\About.cshtml
+--file=I:\Git仓储\ELKnetcore\ELK\Views\Home\Contact.cshtml
+--file=I:\Git仓储\ELKnetcore\ELK\Views\Home\Index.cshtml
+--file=I:\Git仓储\ELKnetcore\ELK\Views\Shared\Error.cshtml
+--file=I:\Git仓储\ELKnetcore\ELK\Views\Shared\_Layout.cshtml
+--file=I:\Git仓储\ELKnetcore\ELK\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=I:\Git仓储\ELKnetcore\ELK\Views\_ViewImports.cshtml
+--file=I:\Git仓储\ELKnetcore\ELK\Views\_ViewStart.cshtml
